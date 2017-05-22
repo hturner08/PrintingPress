@@ -1,0 +1,9 @@
+CHECKPOINT!
+
+Herbie & Amanda
+
+1. We have completed what we ID'ed as the two main parts of the project, its functionality code and its minecraft mod-related code. Amanda completed the majority of the functionality part, which takes in any file (.txt, .docx) and reads its contents into a String field to be processed later on. Herbie completed the majority of the mod-related part, which can currently display the 'printing press' block as an object in the game itself.
+
+2. We now need to combine these two parts. Right now, the block itself has no functionality and the book-making code has no files to read nor books to write into. Hypothetically, we would want to designate the 'printing press' object to function similarly to a terminal window running a main method of a java file: enter the filename to copy, and it'll create a new file with the contents. In this case, we want a formatted book in minecraft.
+
+3. The biggest difficulty so far is definitely just getting used to the Minecraft-modding system. We are using Forge, an application we are not familiar with, which requires us to use Eclipse, an application we are also not familiar with. It was tiresome, to say the least. 
