@@ -1,0 +1,99 @@
+Symbol range map extraction starting
+Processing 3 files
+startProcessing "gmail\littleeinstein0012\blocks\PrintingPress.java" md5: dadd85ab60e70273a2353b46b376b006
+@|gmail\littleeinstein0012\blocks\PrintingPress.java|8|39|gmail.littleeinstein0012.blocks|package|gmail.littleeinstein0012.blocks|(file)
+Class Start: gmail.littleeinstein0012.blocks.PrintingPress
+   @|gmail\littleeinstein0012\blocks\PrintingPress.java|287|300|PrintingPress|class|gmail.littleeinstein0012.blocks.PrintingPress
+   @|gmail\littleeinstein0012\blocks\PrintingPress.java|309|323|BlockContainer|class|net.minecraft.block.BlockContainer
+   Method Start: PrintingPress(Ljava/lang/String;)V
+      @|gmail\littleeinstein0012\blocks\PrintingPress.java|356|371|unlocalizedName|param|gmail.littleeinstein0012.blocks.PrintingPress|PrintingPress|(Ljava/lang/String;)V|unlocalizedName|0
+      @|gmail\littleeinstein0012\blocks\PrintingPress.java|335|348|PrintingPress|method|gmail.littleeinstein0012.blocks.PrintingPress|PrintingPress|(Ljava/lang/String;)V
+      @|gmail\littleeinstein0012\blocks\PrintingPress.java|349|355|String|class|java.lang.String
+      @|gmail\littleeinstein0012\blocks\PrintingPress.java|382|390|Material|class|net.minecraft.block.material.Material
+      @|gmail\littleeinstein0012\blocks\PrintingPress.java|391|395|IRON|field|net.minecraft.block.material.Material|IRON
+      @|gmail\littleeinstein0012\blocks\PrintingPress.java|411|429|setUnlocalizedName|method|net.minecraft.block.Block|setUnlocalizedName|(Ljava/lang/String;)Lnet/minecraft/block/Block;
+      @|gmail\littleeinstein0012\blocks\PrintingPress.java|430|445|unlocalizedName|param|gmail.littleeinstein0012.blocks.PrintingPress|PrintingPress|(Ljava/lang/String;)V|unlocalizedName|0
+      @|gmail\littleeinstein0012\blocks\PrintingPress.java|461|472|setHardness|method|net.minecraft.block.Block|setHardness|(F)Lnet/minecraft/block/Block;
+      @|gmail\littleeinstein0012\blocks\PrintingPress.java|493|506|setResistance|method|net.minecraft.block.Block|setResistance|(F)Lnet/minecraft/block/Block;
+      @|gmail\littleeinstein0012\blocks\PrintingPress.java|527|542|setHarvestLevel|method|net.minecraft.block.Block|setHarvestLevel|(Ljava/lang/String;I)V
+   Method End: PrintingPress(Ljava/lang/String;)V
+   Method Start: createNewTileEntity(Lnet/minecraft/world/World;I)Lnet/minecraft/tileentity/TileEntity;
+      @|gmail\littleeinstein0012\blocks\PrintingPress.java|627|634|worldIn|param|gmail.littleeinstein0012.blocks.PrintingPress|createNewTileEntity|(Lnet/minecraft/world/World;I)Lnet/minecraft/tileentity/TileEntity;|worldIn|0
+      @|gmail\littleeinstein0012\blocks\PrintingPress.java|640|644|meta|param|gmail.littleeinstein0012.blocks.PrintingPress|createNewTileEntity|(Lnet/minecraft/world/World;I)Lnet/minecraft/tileentity/TileEntity;|meta|1
+      @|gmail\littleeinstein0012\blocks\PrintingPress.java|570|578|Override|class|java.lang.Override
+      @|gmail\littleeinstein0012\blocks\PrintingPress.java|590|600|TileEntity|class|net.minecraft.tileentity.TileEntity
+      @|gmail\littleeinstein0012\blocks\PrintingPress.java|601|620|createNewTileEntity|method|net.minecraft.block.ITileEntityProvider|createNewTileEntity|(Lnet/minecraft/world/World;I)Lnet/minecraft/tileentity/TileEntity;
+      @|gmail\littleeinstein0012\blocks\PrintingPress.java|621|626|World|class|net.minecraft.world.World
+      @|gmail\littleeinstein0012\blocks\PrintingPress.java|667|686|PrintingPressEntity|class|gmail.littleeinstein0012.tileentity.PrintingPressEntity
+   Method End: createNewTileEntity(Lnet/minecraft/world/World;I)Lnet/minecraft/tileentity/TileEntity;
+Class End  : gmail.littleeinstein0012.blocks.PrintingPress
+endProcessing "gmail\littleeinstein0012\blocks\PrintingPress.java"
+
+startProcessing "gmail\littleeinstein0012\com\main.java" md5: d165d22d260137cd130dbce6b20d5502
+@|gmail\littleeinstein0012\com\main.java|8|36|gmail.littleeinstein0012.com|package|gmail.littleeinstein0012.com|(file)
+Class Start: gmail.littleeinstein0012.com.main
+   @|gmail\littleeinstein0012\com\main.java|688|691|Mod|class|net.minecraftforge.fml.common.Mod
+   @|gmail\littleeinstein0012\com\main.java|692|697|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|gmail\littleeinstein0012\com\main.java|712|719|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|gmail\littleeinstein0012\com\main.java|752|756|main|class|gmail.littleeinstein0012.com.main
+   @|gmail\littleeinstein0012\com\main.java|774|780|String|class|java.lang.String
+   @|gmail\littleeinstein0012\com\main.java|774|780|String|class|java.lang.String
+   @|gmail\littleeinstein0012\com\main.java|781|786|MODID|field|gmail.littleeinstein0012.com.main|MODID|
+   @|gmail\littleeinstein0012\com\main.java|817|823|String|class|java.lang.String
+   @|gmail\littleeinstein0012\com\main.java|817|823|String|class|java.lang.String
+   @|gmail\littleeinstein0012\com\main.java|824|831|VERSION|field|gmail.littleeinstein0012.com.main|VERSION|
+   @|gmail\littleeinstein0012\com\main.java|868|880|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs
+   @|gmail\littleeinstein0012\com\main.java|868|880|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs
+   @|gmail\littleeinstein0012\com\main.java|881|888|tabName|field|gmail.littleeinstein0012.com.main|tabName|
+   @|gmail\littleeinstein0012\com\main.java|895|907|CreativeTabs|class|net.minecraft.creativetab.CreativeTabs
+   Anon Class Start: gmail.littleeinstein0012.com.main$1
+      Method Start: getTabIconItem()Lnet/minecraft/item/ItemStack;
+         @|gmail\littleeinstein0012\com\main.java|930|939|ItemStack|class|net.minecraft.item.ItemStack
+         @|gmail\littleeinstein0012\com\main.java|940|954|getTabIconItem|method|net.minecraft.creativetab.CreativeTabs|getTabIconItem|()Lnet/minecraft/item/ItemStack;
+         @|gmail\littleeinstein0012\com\main.java|969|985|getIconItemStack|method|net.minecraft.creativetab.CreativeTabs|getIconItemStack|()Lnet/minecraft/item/ItemStack;
+      Method End: getTabIconItem()Lnet/minecraft/item/ItemStack;
+   Anon Class End: gmail.littleeinstein0012.com.main$1
+   @|gmail\littleeinstein0012\com\main.java|1066|1071|Block|class|net.minecraft.block.Block
+   @|gmail\littleeinstein0012\com\main.java|1066|1071|Block|class|net.minecraft.block.Block
+   @|gmail\littleeinstein0012\com\main.java|1072|1081|yourBlock|field|gmail.littleeinstein0012.com.main|yourBlock|
+   Method Start: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|gmail\littleeinstein0012\com\main.java|1146|1147|e|param|gmail.littleeinstein0012.com.main|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V|e|0
+      @|gmail\littleeinstein0012\com\main.java|1086|1098|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|gmail\littleeinstein0012\com\main.java|1112|1119|preInit|method|gmail.littleeinstein0012.com.main|preInit|(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+      @|gmail\littleeinstein0012\com\main.java|1120|1145|FMLPreInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPreInitializationEvent
+   Method End: preInit(Lnet/minecraftforge/fml/common/event/FMLPreInitializationEvent;)V
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|gmail\littleeinstein0012\com\main.java|1213|1214|e|param|gmail.littleeinstein0012.com.main|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|e|0
+      @|gmail\littleeinstein0012\com\main.java|1159|1171|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|gmail\littleeinstein0012\com\main.java|1185|1189|init|method|gmail.littleeinstein0012.com.main|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|gmail\littleeinstein0012\com\main.java|1190|1212|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent
+      @|gmail\littleeinstein0012\com\main.java|1220|1229|yourBlock|field|gmail.littleeinstein0012.com.main|yourBlock
+      @|gmail\littleeinstein0012\com\main.java|1236|1249|PrintingPress|class|gmail.littleeinstein0012.blocks.PrintingPress
+      @|gmail\littleeinstein0012\com\main.java|1263|1277|setCreativeTab|method|net.minecraft.block.Block|setCreativeTab|(Lnet/minecraft/creativetab/CreativeTabs;)Lnet/minecraft/block/Block;
+      @|gmail\littleeinstein0012\com\main.java|1278|1285|tabName|field|gmail.littleeinstein0012.com.main|tabName
+      @|gmail\littleeinstein0012\com\main.java|1289|1298|yourBlock|field|gmail.littleeinstein0012.com.main|yourBlock
+      @|gmail\littleeinstein0012\com\main.java|1299|1314|setRegistryName|method|net.minecraftforge.fml.common.registry.IForgeRegistryEntry.Impl|setRegistryName|(Ljava/lang/String;)Lnet/minecraftforge/fml/common/registry/IForgeRegistryEntry;
+      @|gmail\littleeinstein0012\com\main.java|1335|1347|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|gmail\littleeinstein0012\com\main.java|1348|1366|registerTileEntity|method|net.minecraftforge.fml.common.registry.GameRegistry|registerTileEntity|(Ljava/lang/Class;Ljava/lang/String;)V
+      @|gmail\littleeinstein0012\com\main.java|1367|1386|PrintingPressEntity|class|gmail.littleeinstein0012.tileentity.PrintingPressEntity
+      @|gmail\littleeinstein0012\com\main.java|1420|1432|GameRegistry|class|net.minecraftforge.fml.common.registry.GameRegistry
+      @|gmail\littleeinstein0012\com\main.java|1433|1441|register|method|net.minecraftforge.fml.common.registry.GameRegistry|register|(Lnet/minecraftforge/fml/common/registry/IForgeRegistryEntry;)Lnet/minecraftforge/fml/common/registry/IForgeRegistryEntry;
+      @|gmail\littleeinstein0012\com\main.java|1442|1451|yourBlock|field|gmail.littleeinstein0012.com.main|yourBlock
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+   Method Start: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|gmail\littleeinstein0012\com\main.java|1522|1523|e|param|gmail.littleeinstein0012.com.main|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V|e|0
+      @|gmail\littleeinstein0012\com\main.java|1460|1472|EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler
+      @|gmail\littleeinstein0012\com\main.java|1486|1494|postInit|method|gmail.littleeinstein0012.com.main|postInit|(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+      @|gmail\littleeinstein0012\com\main.java|1495|1521|FMLPostInitializationEvent|class|net.minecraftforge.fml.common.event.FMLPostInitializationEvent
+   Method End: postInit(Lnet/minecraftforge/fml/common/event/FMLPostInitializationEvent;)V
+Class End  : gmail.littleeinstein0012.com.main
+endProcessing "gmail\littleeinstein0012\com\main.java"
+
+startProcessing "gmail\littleeinstein0012\tileentity\PrintingPressEntity.java" md5: 881a0ef1f5d08e72e0ae31959cc5d83b
+@|gmail\littleeinstein0012\tileentity\PrintingPressEntity.java|8|43|gmail.littleeinstein0012.tileentity|package|gmail.littleeinstein0012.tileentity|(file)
+Class Start: gmail.littleeinstein0012.tileentity.PrintingPressEntity
+   @|gmail\littleeinstein0012\tileentity\PrintingPressEntity.java|104|123|PrintingPressEntity|class|gmail.littleeinstein0012.tileentity.PrintingPressEntity
+   @|gmail\littleeinstein0012\tileentity\PrintingPressEntity.java|132|142|TileEntity|class|net.minecraft.tileentity.TileEntity
+Class End  : gmail.littleeinstein0012.tileentity.PrintingPressEntity
+endProcessing "gmail\littleeinstein0012\tileentity\PrintingPressEntity.java"
+
