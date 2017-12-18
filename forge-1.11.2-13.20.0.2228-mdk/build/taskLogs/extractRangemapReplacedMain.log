@@ -1,0 +1,11 @@
+Symbol range map extraction starting
+Processing 3 files
+startProcessing "gmail\littleeinstein0012\blocks\PrintingPress.java" md5: dadd85ab60e70273a2353b46b376b006
+endProcessing "gmail\littleeinstein0012\blocks\PrintingPress.java"
+
+startProcessing "gmail\littleeinstein0012\com\main.java" md5: d165d22d260137cd130dbce6b20d5502
+endProcessing "gmail\littleeinstein0012\com\main.java"
+
+startProcessing "gmail\littleeinstein0012\tileentity\PrintingPressEntity.java" md5: 881a0ef1f5d08e72e0ae31959cc5d83b
+endProcessing "gmail\littleeinstein0012\tileentity\PrintingPressEntity.java"
+
